@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" class="dark">
+    <html lang="en" className="dark">
       <body className={`${inter.variable} ${mono.variable} font-sans bg-black text-white antialiased selection:bg-emerald-500/30`}>
         <CustomCursor />
         <Navbar />
