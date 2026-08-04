@@ -1,0 +1,63 @@
+{
+  "name": "zensei-prestige-portfolio",
+  "generatedBy": "PrismXGPT",
+  "generatedAt": "2026-08-04T06:30:40.884Z",
+  "fileCount": 11,
+  "files": [
+    {
+      "path": "next.config.ts",
+      "language": "typescript",
+      "bytes": 157
+    },
+    {
+      "path": "package.json",
+      "language": "json",
+      "bytes": 715
+    },
+    {
+      "path": "README.md",
+      "language": "text",
+      "bytes": 327
+    },
+    {
+      "path": "src/app/globals.css",
+      "language": "css",
+      "bytes": 496
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "language": "tsx",
+      "bytes": 1176
+    },
+    {
+      "path": "src/app/page.tsx",
+      "language": "tsx",
+      "bytes": 462
+    },
+    {
+      "path": "src/components/layout/Navbar.tsx",
+      "language": "tsx",
+      "bytes": 1020
+    },
+    {
+      "path": "src/components/sections/Hero.tsx",
+      "language": "tsx",
+      "bytes": 1894
+    },
+    {
+      "path": "src/components/sections/Projects.tsx",
+      "language": "tsx",
+      "bytes": 2043
+    },
+    {
+      "path": "src/components/ui/CustomCursor.tsx",
+      "language": "tsx",
+      "bytes": 797
+    },
+    {
+      "path": "tsconfig.json",
+      "language": "json",
+      "bytes": 601
+    }
+  ]
+}

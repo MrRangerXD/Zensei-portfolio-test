@@ -1,0 +1,19 @@
+zensei-prestige-portfolio
+
+├── src/
+│   ├── app/
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   └── components/
+│       ├── layout/
+│       │   └── Navbar.tsx
+│       ├── sections/
+│       │   ├── Hero.tsx
+│       │   └── Projects.tsx
+│       └── ui/
+│           └── CustomCursor.tsx
+├── next.config.ts
+├── package.json
+├── README.md
+└── tsconfig.json
